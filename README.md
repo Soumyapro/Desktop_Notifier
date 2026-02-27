@@ -11,7 +11,7 @@ A Python application that fetches the latest top news headlines from [NewsAPI](h
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -42,7 +42,7 @@ A Python application that fetches the latest top news headlines from [NewsAPI](h
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 **Step 1:** Fetch the latest news
 ```bash
@@ -58,7 +58,7 @@ A notification will pop up on desktop showing the latest headline.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Desktop_Notifier/
